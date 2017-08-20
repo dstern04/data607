@@ -7,7 +7,7 @@ theme = "hugo-theme-docdock"
 themesdir = "themes/"
 
 [params]
-editURL = "https://github.com/jbryer/DATA606Fall2017/"
+editURL = "https://github.com/dstern04/dstern04.github.io"
 noHomeIcon = false # default is false
 noSearch = false # default is false
 showVisitedLinks = true # default is false
@@ -23,7 +23,7 @@ home = [ "HTML", "RSS", "JSON"]
 pre = "<h3>More</h3>"
 name = "<i class='fa fa-github'></i> Github repo"
 identifier = "ds"
-url = "https://github.com/jbryer/DATA606Fall2017"
+url = "https://github.com/dstern04/dstern04.github.io"
 weight = 10
 
 [[menu.shortcuts]]
